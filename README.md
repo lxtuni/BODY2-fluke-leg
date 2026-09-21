@@ -1,6 +1,5 @@
 # BODY2-fluke-leg — Paddling leg for the amphibious quadruped BODY2: fluke-foot design, hydrodynamics and servo trajectory
 
-TUM MRBE Semesterarbeit (Lu Xiaotian, winter 2026). The repository contains only the **currently valid** code, data and notes. CFD cases, animation frames and Office reports are not tracked.
 
 ## Layout
 
