@@ -1,7 +1,5 @@
 # BODY2-fluke-leg — 两栖四足机器人 BODY2 的划水腿：尾鳍脚设计、水动力分析与电控轨迹
 
-TUM MRBE Semesterarbeit（Lu Xiaotian，2026 WS）。仓库只放**当前有效**的代码、数据和笔记；CFD 算例、动画帧、Office 报告不进仓库。
-
 ## 目录
 
 | 目录 | 内容 | 入口 |
