@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+pandas
+trimesh
+cadquery      # cad/：生成 STL/STEP（pip install cadquery，需要 Python 3.10–3.12）

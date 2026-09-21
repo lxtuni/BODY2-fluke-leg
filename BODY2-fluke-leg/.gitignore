@@ -1,0 +1,28 @@
+# Python / Node
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+# 中间产物：动画帧、视频、日志、Office 导出
+anim/
+**/anim/
+*.mp4
+*.gif
+*.log
+*.docx
+*.pdf
+# CFD 算例与结果（太大，不进仓库；用 BODY2_CFD_RESULTS 指向本地目录）
+results_leg/
+results_verify/
+cases/
+processor*/
+*.vtk
+*.vtu
+# SolidWorks 原始文件与整机总装（不公开）
+*.SLDPRT
+*.SLDASM
+身体总装*
+hull_only.step
+# 系统
+.DS_Store
+Thumbs.db
